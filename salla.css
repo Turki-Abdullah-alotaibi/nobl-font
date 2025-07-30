@@ -1,10 +1,9 @@
 @font-face {
   font-family: "Tajawal";
   font-style: normal;
-  src: url("Tajawal-Regular.ttf") format("truetype");
+  src: url("https://raw.githubusercontent.com/Turki-Abdullah-alotaibi/nobl-font/main/Tajawal-Regular.ttf") format("truetype");
   font-display: auto;
 }
-
 body {
   font-family: "Tajawal", sans-serif;
 }
