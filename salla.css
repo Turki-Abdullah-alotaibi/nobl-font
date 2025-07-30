@@ -1,9 +1,11 @@
+
 @font-face {
-  font-family: "Almarai";
+  font-family: "Amiri";
   font-style: normal;
-  src: url("https://github.com/google/fonts/raw/main/ofl/almarai/Almarai-Regular.ttf") format("truetype");
+  font-weight: 700;
+  src: url("Amiri-Bold.ttf") format("truetype");
   font-display: auto;
 }
 body {
-  font-family: "Almarai", sans-serif;
+  font-family: "Amiri", sans-serif;
 }
